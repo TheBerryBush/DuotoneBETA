@@ -190,7 +190,7 @@ enum Exclude
 	SOLIDS = 2,
 	MOVING = 4,
 	PLATFORMS = 8,
-	MOVINGANDPLATFORMS = 12,
+	MOVINGANDPLATFORMS = 12, //TODO: Fucking kill you
 	ALL = 15	
 }
 
@@ -201,7 +201,7 @@ enum DebugType
 	Dev = 2	
 }
 
-enum MusicNote
+enum MusicNote //thanks glub
 {
 	B3 = 0,
 	C4 = 1,
@@ -322,7 +322,7 @@ enum StickPressed
 	Pressed
 }
 
-enum TitlecardParams
+enum TitlecardParams //Unused. This was around P-Rank Build...
 {
     Up = 0,
     Down = 1,
