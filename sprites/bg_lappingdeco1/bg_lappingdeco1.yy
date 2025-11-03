@@ -51,8 +51,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Lap 2",
+    "path": "folders/Sprites/Backgrounds/Other/Lap 2.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

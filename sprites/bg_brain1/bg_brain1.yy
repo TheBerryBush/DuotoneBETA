@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Painter's Brain",
-    "path": "folders/Sprites/Backgrounds/Painter's Brain.yy",
+    "path": "folders/Sprites/Backgrounds/Painter's Exhibition Hub/Painter's Brain.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

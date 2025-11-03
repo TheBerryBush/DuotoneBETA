@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Spire Hub",
+    "path": "folders/Sprites/Backgrounds/Spire Hub.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

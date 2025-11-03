@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Painter's Exhibition Hub",
+    "path": "folders/Sprites/Backgrounds/Painter's Exhibition Hub.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

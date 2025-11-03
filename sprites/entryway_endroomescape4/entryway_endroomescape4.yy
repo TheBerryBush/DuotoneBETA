@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "2022 Demo",
+    "path": "folders/Sprites/Backgrounds/Crunchy Construction/2022 Demo.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
