@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Debris and Gibs",
+    "path": "folders/Sprites/Misc./Debris and Gibs.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

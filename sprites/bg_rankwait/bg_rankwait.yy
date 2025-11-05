@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Ranks",
-    "path": "folders/Sprites/Backgrounds/Other/Ranks.yy",
+    "path": "folders/Sprites/Backgrounds/Misc./Ranks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

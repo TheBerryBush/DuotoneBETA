@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Controller Disconnect Screen",
-    "path": "folders/Sprites/Backgrounds/Other/Controller Disconnect Screen.yy",
+    "path": "folders/Sprites/Backgrounds/Misc./Controller Disconnect Screen.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

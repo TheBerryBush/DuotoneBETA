@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Generic",
-    "path": "folders/Sprites/Backgrounds/Other/Generic.yy",
+    "path": "folders/Sprites/Backgrounds/Misc./Generic.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

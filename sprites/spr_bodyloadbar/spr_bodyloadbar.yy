@@ -55,8 +55,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Intro",
+    "path": "folders/Sprites/Misc./Intro.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

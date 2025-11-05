@@ -50,8 +50,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Breakables",
+    "path": "folders/Sprites/Objects/Breakables.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

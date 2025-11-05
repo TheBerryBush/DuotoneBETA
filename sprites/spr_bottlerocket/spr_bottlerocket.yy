@@ -65,8 +65,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Bottle Rocket",
+    "path": "folders/Sprites/Objects/Level Objects/Sucrose Snowstorm/Bottle Rocket.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

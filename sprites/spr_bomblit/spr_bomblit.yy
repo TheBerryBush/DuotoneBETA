@@ -51,8 +51,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Poprock Bomb",
+    "path": "folders/Sprites/Objects/Unused/Poprock Bomb.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

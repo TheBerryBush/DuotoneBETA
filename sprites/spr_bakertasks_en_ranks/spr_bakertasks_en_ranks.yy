@@ -51,8 +51,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Baker Badges",
+    "path": "folders/Sprites/UI/Baker Badges.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

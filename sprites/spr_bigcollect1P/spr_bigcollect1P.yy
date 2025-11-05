@@ -67,8 +67,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Collects",
+    "path": "folders/Sprites/Objects/Collects.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

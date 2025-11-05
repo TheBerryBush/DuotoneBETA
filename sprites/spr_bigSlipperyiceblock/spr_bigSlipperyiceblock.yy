@@ -78,8 +78,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Ice Block",
+    "path": "folders/Sprites/Objects/Level Objects/Mt. Fudgetop/Ice Block.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

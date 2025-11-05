@@ -52,7 +52,7 @@
   "origin": 0,
   "parent": {
     "name": "Lap 2",
-    "path": "folders/Sprites/Backgrounds/Other/Lap 2.yy",
+    "path": "folders/Sprites/Backgrounds/Misc./Lap 2.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

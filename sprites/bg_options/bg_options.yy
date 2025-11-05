@@ -54,7 +54,7 @@
   "origin": 0,
   "parent": {
     "name": "Menus",
-    "path": "folders/Sprites/Backgrounds/Other/Menus.yy",
+    "path": "folders/Sprites/Backgrounds/Misc./Menus.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
